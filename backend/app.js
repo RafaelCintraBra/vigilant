@@ -1,0 +1,1 @@
+const express=require("express");const app=express();app.use(express.json());app.get("/",(req,res)=>res.send("Vigilant API OK"));app.listen(3000);

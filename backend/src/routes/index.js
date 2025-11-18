@@ -1,0 +1,1 @@
+const express=require("express");const router=express.Router();const c=require("../controllers/incidentController");router.get("/incidents",c.list);module.exports=router;
