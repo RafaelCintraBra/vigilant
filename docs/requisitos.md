@@ -4,3 +4,10 @@
 2. RF02 – Incidentes podem ter fotos
 3. RF03 – Autoridades podem validar incidentes
 4. RF04 – Listagem de incidentes
+
+# Requisitos Técnicos
+
+- API REST
+- Banco PostgreSQL
+- Autenticação por JWT (versão futura)
+- Docker para deploy
